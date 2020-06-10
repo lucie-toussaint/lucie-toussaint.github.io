@@ -1,0 +1,21 @@
+body{
+  background-color: #D9FAFD;
+}
+.logo{
+  width: 150px;
+  margin-left: 630px;
+}
+h2{
+  text-decoration: underline;
+  text-align: center;
+}
+p{
+  margin-left: 50px;
+}
+li{
+  margin-left: 100px;
+  list-style-type: circle;
+}
+h4{
+  margin-left: 50px;
+}
